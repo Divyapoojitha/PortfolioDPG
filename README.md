@@ -16,10 +16,9 @@
 - Intermediate, M.P.C	| Sasi Junior College for Girls , Velivennu (2014 to 2016)	 			        		
 - S.S.C | Vijaya English Medium High School , Penumantra (2013 to 2014)
 
-## Work Experience
-**Data Analyst @ Tata Consultancy Services (Jan 2021  to  Aug 2022)**
 
-**Client | Diageo Great Britain Pvt. LTD.**
+## Work Experience
+**Data Analyst @ Tata Consultancy Services (Jan 2021 - Aug 2022)**
 - Developed and maintained powerBI reports for Commercial and
 Performance catering to the respective client .
 - Created SQL Server Management Views to enhance data understanding
@@ -33,7 +32,8 @@ reports.
 - Successfully delivered and maintained data quality reports, conducting
 thorough comparisons between source data and reports.
 
-## Skill Enhancement
+
+## Course & Internship
 **Data Science Student @ Innomatics Research Labs (5th Jan 2023  to 20th Nov 2023)**
 - Python , SQL , EDA , Tableau , Machine Learning , Deep Learning , Projects
 
@@ -55,6 +55,7 @@ model through transfer learning .
 achieved more than 95% accuracy in both models with some difference in no. of
 epochs .
 
+
 ### Loan Prediction (EDA & ML) :
 [link](https://github.com/Divyapoojitha/LoanPrediction_EDA_ML)
 
@@ -68,6 +69,8 @@ epochs .
 
 **Performance :** All models did perform well but decision tree's randomized search cv model is having higher performance with Test Score : 92% , Train Score : 93%
 
+
+
 ## Certifications
 - Successfully cleared the assessment on IBM certified Data Science with 94%
 through Futureskills prime platform [link](https://github.com/Divyapoojitha/Certificates/blob/main/FutureSkillsIBMcDS.pdf)
@@ -75,6 +78,7 @@ through Futureskills prime platform [link](https://github.com/Divyapoojitha/Cert
 - Successfully completed IBM Machine Learning with Python certification [link](https://github.com/Divyapoojitha/Certificates/blob/main/IBM%20ML0101EN%20Certificate%20_%20Cognitive%20Class.pdf)
 - Received IBM - Machine Learning with Python - Level 1 Badge [link](https://github.com/Divyapoojitha/Certificates/blob/main/Machine_Learning_with_Python___Level_1_Badge20240706-7-itha9t.pdf)
 - Innomatics Data Science Course Completion [link](https://github.com/Divyapoojitha/Certificates/blob/main/Innomatics_Data_Science%20Course%20Completion_certificate.pdf)
+
 
 ## Blogs :
 Yolo Architecture ( working , advantages , limitations ) | medium  [link](https://medium.com/@divyapoojitha999/yolo-architecture-6a584081363b)
