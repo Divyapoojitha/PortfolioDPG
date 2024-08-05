@@ -1,14 +1,13 @@
-# Data Science Enthusiast | Data Analyst
 
 ## Technical Skills: 
-###### Languages : Python, SQL
-###### Relatable skills : Data summarization, Data Manipulation, Data cleaning, Reports generation
-###### Data Visualization : Matplotlib, Seaborn
-###### Machine Learning : Supervised, UnSupervised
-###### Deep Learning : ANN, CNN, YOLO, Computer vision
-###### NLP : Text Preprocessing, BERT, GPT, Sentiment Analysis
-###### GenAI : LLMs, Gemini_AI, RAG, Langchian framework
-###### Tools : VScode , Jupyter , Microsoft Azure , PowerBI , Tableau , AWS
+**Languages :** Python, SQL
+**Relatable skills :** Data summarization, Data Manipulation, Data cleaning, Reports generation
+**Data Visualization :** Matplotlib, Seaborn
+**Machine Learning :** Supervised, UnSupervised
+**Deep Learning :** ANN, CNN, YOLO, Computer vision
+**NLP :** Text Preprocessing, BERT, GPT, Sentiment Analysis
+**GenAI :** LLMs, Gemini_AI, RAG, Langchian framework
+**Tools :** VScode , Jupyter , Microsoft Azure , PowerBI , Tableau , AWS
 
 
 ## Education
