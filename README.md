@@ -1,13 +1,14 @@
+# Divya Poojitha Gundabattula
 
 ## Technical Skills: 
-**Languages :** Python, SQL
-**Relatable skills :** Data summarization, Data Manipulation, Data cleaning, Reports generation
-**Data Visualization :** Matplotlib, Seaborn
-**Machine Learning :** Supervised, UnSupervised
-**Deep Learning :** ANN, CNN, YOLO, Computer vision
-**NLP :** Text Preprocessing, BERT, GPT, Sentiment Analysis
-**GenAI :** LLMs, Gemini_AI, RAG, Langchian framework
-**Tools :** VScode , Jupyter , Microsoft Azure , PowerBI , Tableau , AWS
+- **Languages :** Python, SQL
+- **Relatable skills :** Data summarization, Data Manipulation, Data cleaning, Reports generation
+- **Data Visualization :** Matplotlib, Seaborn
+- **Machine Learning :** Supervised, UnSupervised
+- **Deep Learning :** ANN, CNN, YOLO, Computer vision
+- **NLP :** Text Preprocessing, BERT, GPT, Sentiment Analysis
+- **GenAI :** LLMs, Gemini_AI, RAG, Langchian framework
+- **Tools :** VScode , Jupyter , Microsoft Azure , PowerBI , Tableau , AWS
 
 
 ## Education
@@ -37,6 +38,7 @@ thorough comparisons between source data and reports.
 - Python , SQL , EDA , Tableau , Machine Learning , Deep Learning , Projects
 
 **Data Science Intern @ Innomatics Research Labs (*present*)**
+- Data Manipulation and Analysis , MLOPs , LLMs and GenAI , Application Deployment
 
 ## Projects
 ### Rice Classification - CNN , VGG16 (DL) :
