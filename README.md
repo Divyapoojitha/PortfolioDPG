@@ -17,7 +17,8 @@
 - S.S.C | Vijaya English Medium High School , Penumantra (2013 to 2014)
 
 ### Work Experience
-**Data Analyst @ Tata Consultancy Services (Jan 2021  to  Aug 2022)**\n
+**Data Analyst @ Tata Consultancy Services (Jan 2021  to  Aug 2022)**
+
 **Client | Diageo Great Britain Pvt. LTD.**
 - Developed and maintained powerBI reports for Commercial and
 Performance catering to the respective client .
