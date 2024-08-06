@@ -79,6 +79,7 @@ through Futureskills prime platform [link](https://github.com/Divyapoojitha/Cert
 - Successfully completed IBM Machine Learning with Python certification [link](https://github.com/Divyapoojitha/Certificates/blob/main/IBM%20ML0101EN%20Certificate%20_%20Cognitive%20Class.pdf)
 - Received IBM - Machine Learning with Python - Level 1 Badge [link](https://github.com/Divyapoojitha/Certificates/blob/main/Machine_Learning_with_Python___Level_1_Badge20240706-7-itha9t.pdf)
 - Innomatics Data Science Course Completion [link](https://github.com/Divyapoojitha/Certificates/blob/main/Innomatics_Data_Science%20Course%20Completion_certificate.pdf)
+- Successfully completed Data Analysis with Python , IBM Certification [link](https://github.com/Divyapoojitha/Certificates/blob/main/IBM%20DA0101EN%20Certificate%20_%20Cognitive%20Class.pdf)
 
 
 ## Blogs :
