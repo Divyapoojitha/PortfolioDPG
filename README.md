@@ -71,6 +71,15 @@ epochs .
 **Performance :** All models did perform well but decision tree's randomized search cv model is having higher performance with Test Score : 92% , Train Score : 93%
 
 
+### Food Application Dashboard ( Tableau ) :
+[link](https://public.tableau.com/app/profile/divya.gundabattula/viz/ZomatoProject_16876028535630/Project1)
+
+**Developed** an interactive Tableau dashboard for a food application, incorporating dynamic filters and calculated fields.
+
+**Analyzed** a dataset containing details on sales, ratings, delivery, and cuisines to provide insightful visualizations.
+
+**Utilized** various chart types, including bar charts, pie charts, and gauge charts, to effectively present and interpret the data.
+
 
 ## Certifications
 - Successfully cleared the assessment on IBM certified Data Science with 94%
